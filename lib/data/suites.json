@@ -1,0 +1,1319 @@
+[
+  {
+    "id": 588012,
+    "slug": "suite-202",
+    "unit": "202",
+    "floor": 2,
+    "title": "The Mid-Century King Suite",
+    "listingName": "202 at The George - Mid-Century King Suite + View",
+    "tagline": "King bed, park views, mid-century flair",
+    "type": "Apartment",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "priceFrom": 145,
+    "rating": 5.0,
+    "reviews": 0,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.2279675,
+    "lng": -121.7786152,
+    "description": "Experience downtown living with a mid-century modern flair at The George. Suite 202 is thoughtfully designed to feel like a true home away from home.\nPerched with a scenic view of the park, this spacious suite blends vintage aesthetic charm with modern luxury. Unwind in the living area featuring a massive 70-inch TV, or catch a show on the additional 55-inch TV in the bedroom.",
+    "amenities": {
+      "General": [
+        "Free WiFi",
+        "Air conditioning",
+        "Washing Machine",
+        "Cable TV",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Elevator",
+        "24-hour checkin",
+        "Hair Dryer",
+        "Heating",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "Iron",
+        "TV",
+        "Iron board",
+        "Towels",
+        "Hot water",
+        "Cooking basics",
+        "WiFi speed (500+ Mbps)",
+        "Smart TV",
+        "Ceiling fan"
+      ],
+      "Kitchen & dining": [
+        "Kitchen",
+        "Toaster",
+        "Electric kettle",
+        "Coffee/tea maker",
+        "Stove",
+        "Refrigerator",
+        "Kitchen utensils",
+        "Kitchen island",
+        "Coffee"
+      ],
+      "Safety": [
+        "Smoke detector",
+        "Carbon Monoxide Detector"
+      ],
+      "Parking": [
+        "Free parking",
+        "Private parking"
+      ],
+      "Bathroom": [
+        "Shower",
+        "Toilet",
+        "Body soap",
+        "Conditioner",
+        "Shower gel"
+      ],
+      "Accessibility": [
+        "Wheelchair not accessible"
+      ],
+      "Leisure": [
+        "Antiquing",
+        "Bird watching"
+      ],
+      "Location": [
+        "Downtown"
+      ],
+      "Policy": [
+        "Long term stays allowed"
+      ],
+      "Themes": [
+        "Historic"
+      ],
+      "Cleanliness": [
+        "Contactless Check-In/Out"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-oYSDgTd78UA9XNS0cgars9cEFqRKXdrQsC0plYCbxeI-6a993136669f2",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-b1hOBouzdunj5iYJHqYmHj9RUq9MGYwfh8BsPZVFYS4-6a9937d225e46",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-n9EH3X--piFsRycWrH0AaNQBWO3R9lmidQ3IG-hFa9D8-6a998a29a4d47",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-6i-rzHhhzEgsSwchZqf69JvtBNhbGLpuu4miijI6DM8-6a9937d11fdf1",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-gpMk12XBnxBTZ--dekOt6ECPUODhfHrkSQGpg5AAKfAE-6a9937d04dd7b",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-UweVz9Kq--KGVTp--fEm1OPEGL4iYZ0y4J1DeAmRCRuck-6a993133b5ff9",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-wTjK5rWdJyh1vV9vWR3YAmoDRH4kyGhVaqQ8Fc1X1Jg-6a993132b9323",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-iv8Pei3tgjdJAlqi8ccHRMHLOI--OTyK6ZVfpmTK1mAA-6a9937cf70600",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-D3Y3emWQx3pazm6iLr6xxRn8t2jMH5syRrGY4Q78rxE-6a9937ceb7d16",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-Cn6nMr0KD8TVYfZpRvCV--09U0UwB5mVvkdIiVtqAwrg-6a9937cde503a",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-DZ1iig3MWm6qyCWcotAksPfqu8eilR4PdkHVa8PvLIE-6a9937ccb2a32",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-C4Oxayl1W7w508yMS3FlTzW7DW1zC77PVMpnaK0FDm8-6a9931305f262",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-P2O7OKuN5iFl6Eg17UGypmxTR0jpbYkZKnk1--qyxW4E-6a9937cbccf37",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-pyeYXFyKAHFcm6eSImkJKD7zvEoMnXTr3sRyEVfEOk0-6a9937caf3064",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-j0SM0jhDUJOx0FxyVoLx0DPJnnB3ZYvD2dj-wvvFBNg-6a99312e95825",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-eN-wXZKt7Yy4S37LLD2tguFjLZnDY0WmzeYBZFdScw4-6a9937ca3493c",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-G8Ujg2LkxTTESV--5Nb7pQfPRghp9lodiAcFxmpAJYmk-6a9937c94e3b2",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-RG2iziEB3fKXCE3bKZo4JYk--Q1a--b0ya--cqfa3JYKw8-6a9937c839e45",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-588012-iDqo7jtqTNNJ0U--tJEvP--OPa7cDEzhGnA9Lh7JRlo1Y-6a99312ccfd12"
+    ]
+  },
+  {
+    "id": 376973,
+    "slug": "suite-203",
+    "unit": "203",
+    "floor": 2,
+    "title": "The Vintage Two-Bedroom",
+    "listingName": "203 2-Bedroom Vintage Escape in a 1930s gem",
+    "tagline": "Mid-century dual master, across from Klamath Commons",
+    "type": "Apartment",
+    "guests": 4,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "beds": 2,
+    "priceFrom": 217,
+    "rating": 4.5,
+    "reviews": 25,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.2279675,
+    "lng": -121.7786152,
+    "description": "Enjoy this Mid Century Modern inspired 2 bedroom in downtown Klamath Falls.  This dual master setup includes a 70\" LED TV and two 50\" LED Tv's.  Located across the new Klamath Commons Park downtown.  Short walk to bars and restaurants.",
+    "amenities": {
+      "General": [
+        "Free WiFi",
+        "Air conditioning",
+        "Washing Machine",
+        "Cable TV",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Elevator",
+        "24-hour checkin",
+        "Hair Dryer",
+        "Heating",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "Iron",
+        "TV",
+        "Private living room ",
+        "Iron board",
+        "Linens",
+        "Towels",
+        "Hot water",
+        "Cooking basics",
+        "Room darkening shades",
+        "WiFi speed (250+ Mbps)",
+        "Smart TV",
+        "Ceiling fan"
+      ],
+      "Safety": [
+        "Smoke detector"
+      ],
+      "Parking": [
+        "Free parking"
+      ],
+      "Kitchen & dining": [
+        "Toaster",
+        "Microwave",
+        "Electric kettle",
+        "Coffee/tea maker",
+        "Stove",
+        "Refrigerator",
+        "Kitchen utensils",
+        "Coffee"
+      ],
+      "Bathroom": [
+        "Shower",
+        "Toilet",
+        "Body soap",
+        "Conditioner"
+      ],
+      "Location": [
+        "Downtown",
+        "City view"
+      ],
+      "Cleanliness": [
+        "Contactless Check-In/Out"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-376973-TYevrPbew350GCtJ3-P96HWc6icqjKgJHz73k8x5tpE-67eb2ebe188c2",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-376973-PI7ZFjOL9Us5b7sEbqYs--KFJAZ9x3qB81----GA3q6Th0-67eb2ebcb5122",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-376973-2k6KXroeYfrDaL7lbU1ZVht12zyhNB26cFDcKGwS--FM-67eb2ebb56474",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-376973-hJ1--pCe2GHYAtsweA31KLGkdWl021Rya5kHmzrhNunw-67eb2eba03057",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-376973-5ERwnC59A-pdW9DP1PFu1BzGJoApnhFbsRiC694uzEU-67eb2eb8b4f5a",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-376973-CiKkODbETmCf74h5XSOEIjl6pDlhQVI7my8FPbft4U4-67eb2eb712f8f",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-376973-B-oaBi9j-gTtR4f0-fU6z-qFcGtwzS9PG-HBnmRKJDo-67eb503af25bb",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-376973-RTqyQJaOc7Zi2SiAP74rxVp--Wb1RTuWVkzezbDn8hqM-67eb2eb5a18a0",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-376973-pfGWmihxlEMAADCTTMxFXvuGphMNN7jokQOP2oAZrxU-67eb2eb42159a",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-376973-vmpkIz5Vj7TP2Y8oycUh5f5YHd798eh05Ptr9t69vnA-67eb2eb2b27df",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-376973-EoaH6--2SavWKuh2IxLMmBsgvR6WG3LulXsek6ml75so-67eb2eb118fd6",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-376973-1-zfbDgPj6J9rHTO1U1Idw5xsID62qnOTt-IesdcGi4-67eb2eaff0dbc",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-376973-Wfjqb9t3E0n8lB3q963WdeeZxI--q4JO2kUhuI4MpbxE-67ec82e1c477f"
+    ]
+  },
+  {
+    "id": 394621,
+    "slug": "suite-208",
+    "unit": "208",
+    "floor": 2,
+    "title": "The Retro-Chic Escape",
+    "listingName": "Retro-Chic Escape #208",
+    "tagline": "Retro charm with modern comfort",
+    "type": "Apartment",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "priceFrom": 211,
+    "rating": 4.9,
+    "reviews": 1,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.2279675,
+    "lng": -121.7786152,
+    "description": "Step into this 1930s gem in the heart of downtown Klamath Falls. Located in The George, a restored vintage building, this cozy unit blends retro charm with modern comfort. Walk to local shops, dining, and coffee spots, or explore nearby trails and Crater Lake. With fast Wi-Fi, a comfy bed, and unique character, it’s perfect for solo travelers, couples, or weekend explorers.",
+    "amenities": {
+      "General": [
+        "Free WiFi",
+        "Air conditioning",
+        "Washing Machine",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Elevator",
+        "24-hour checkin",
+        "Heating",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "Iron",
+        "TV",
+        "Iron board",
+        "Linens",
+        "Towels",
+        "Hot water",
+        "Cooking basics",
+        "Room darkening shades",
+        "WiFi speed (100+ Mbps)",
+        "WiFi speed (250+ Mbps)",
+        "Smart TV",
+        "Clothing storage",
+        "Ceiling fan"
+      ],
+      "Parking": [
+        "Free parking"
+      ],
+      "Kitchen & dining": [
+        "Toaster",
+        "Microwave",
+        "Electric kettle",
+        "Coffee/tea maker",
+        "Stove",
+        "Refrigerator",
+        "Kitchen utensils",
+        "Coffee"
+      ],
+      "Bathroom": [
+        "Shower",
+        "Toilet",
+        "Body soap",
+        "Conditioner",
+        "Shower gel"
+      ],
+      "Attractions": [
+        "Coin laundry"
+      ],
+      "Location": [
+        "Downtown",
+        "Mountain",
+        "City view"
+      ],
+      "Policy": [
+        "Long term stays allowed"
+      ],
+      "Cleanliness": [
+        "Contactless Check-In/Out"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-394621-qoTYIg77WL84rawwADxWNMmIG5f9R1SLpSfO5Lnjqv8-682fd0f299ea8",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-394621-kmYHjo6ILYiktjfgM2INb-vzhBkKrX-6HWyAX8Mfktc-682fd0d7dd85b",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-394621-0mVrkcrtEYX3UgLRcIze--UXL8ntEQj-k6dY62CPSuNQ-682fd0db9476d",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-394621-ECsug1YL8kpzO7j-zCT3T-QrLiY4Urb2QYPfpibmStw-682fd0df967bd",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-394621-QPXSOPKNOfedaVzbKWEOr8Pk-OOUCfFwdGpFNR3N-wU-682fd0e46abc0",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-394621-fLqea2mGisEo-0UcYLyat8oEWJv89Itf4En69SFod--w-682fd0e8c4354",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-394621-l7--mKhf74J--CTmtPpnBqTJhFEMrxJ4aV6S1CdSf1XuI-682fd0edb9c81",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-394621-fXrzgHbTAULD2pS5LGxam2cs-nf--IRwvb-1PWl--l--E4-682fd0f80dae3",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-394621-UvnjDHGNNtME--eLlghmdouJapk--aZ1BY8Dm2--D6Kt--Y-682fd0fdc0b13",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-394621-hJWB1xExt1dj--U4lu1lb98P2jMeDJA6VcPC5Vp46JpQ-682fd103b618b",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-394621-lj7LdYMf8J71iddh2qpXlJgb7MiA4PEWB7iGEgYFG--g-682fd109e3814",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-394621-giIS0SPpJB2OB-Jo--zGYmCjwUJhZLrJdwkSWBTPw45Q-682fd0ce9edc2",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-394621-ZxN7BrqrLalXMxi99k-OruftKnIezS76bgkYI6YXlaI-682fd0d487e2c"
+    ]
+  },
+  {
+    "id": 418435,
+    "slug": "suite-210",
+    "unit": "210",
+    "floor": 2,
+    "title": "The Boutique Suite",
+    "listingName": "Unit 210 The Newest Boutique Stay at The George",
+    "tagline": "The newest addition to The George",
+    "type": "Apartment",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "priceFrom": 224,
+    "rating": 4.8,
+    "reviews": 4,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.2279675,
+    "lng": -121.7786152,
+    "description": "Step into comfort and style in this beautifully updated unit, located in the heart of historic downtown Klamath Falls. Unit 210 is the latest addition to The George, a charming 1930s building thoughtfully restored with modern touches and timeless character.\n\nWhether you're visiting Crater Lake, in town for business, or just looking to unwind in southern Oregon, this unit offers a peaceful and private escape with walkable access to local cafés, restaurants, and Main Street shops.",
+    "amenities": {
+      "General": [
+        "Free WiFi",
+        "Washing Machine",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Elevator",
+        "24-hour checkin",
+        "Shampoo",
+        "Hangers",
+        "Iron",
+        "TV",
+        "Iron board",
+        "Towels",
+        "Hot water",
+        "Cooking basics",
+        "WiFi speed (250+ Mbps)",
+        "Smart TV",
+        "Ceiling fan"
+      ],
+      "Parking": [
+        "Free parking"
+      ],
+      "Kitchen & dining": [
+        "Toaster",
+        "Microwave",
+        "Electric kettle",
+        "Coffee/tea maker",
+        "Stove",
+        "Refrigerator",
+        "Kitchen utensils",
+        "Coffee"
+      ],
+      "Bathroom": [
+        "Shower",
+        "Toilet",
+        "Body soap",
+        "Conditioner"
+      ],
+      "Location": [
+        "Downtown"
+      ],
+      "Policy": [
+        "Long term stays allowed"
+      ],
+      "Cleanliness": [
+        "Contactless Check-In/Out"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-418435-6SjYeg38cXp4rDRPS2KCE6rogBPIuFFnn--3hTuluI3A-68d6e8c85056f",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-418435-OvkUcmvtN-Q1rjGQtsem-mzngmnS0miyChCo5r----tdw-68d6e8baae940",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-418435-72--KqzVjGTKoPuKWtjou5dTNpS3WbboRPXIAX5Lk7Y-68d6e8bdaf440",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-418435-rsSnZphNDXJOr5ltM6oWa6sXX2iZLAQG-BrHNCcTA1A-68d6e8c0f339a",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-418435-vS9BIVm09HKhk8fwXiw9BflQXm-kqNFV1PyDmdoDskg-68d6e8c45c942",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-418435-XVpEUtoG-eqLHIXHavNkXTR2-LJrG4KASc6-R6sQ6uc-68d6e8cc8c93f",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-418435-DOCvudUufcAlP-kW35a5oYWoTCSxZqt7KemL25QjSCY-68d6e8d1263f5",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-418435-h4kqnA61AH99icjcTtgJ5AYIqEZ2uhue4Ov-81FtGWk-68d6e8d62daca",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-418435-peaBv27gFiWLEQbxPRNzBKAhl-G3TUfiY9RlMtuG-Pc-688a9a2f9c263"
+    ]
+  },
+  {
+    "id": 309140,
+    "slug": "suite-211",
+    "unit": "211",
+    "floor": 2,
+    "title": "The Classic Suite",
+    "listingName": "The George Suites 211",
+    "tagline": "Classic character, modern upgrades",
+    "type": "Apartment",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "priceFrom": 143,
+    "rating": 4.6,
+    "reviews": 8,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.22783955,
+    "lng": -121.77851746,
+    "description": "Welcome to The George – A Newly Renovated Stay in Downtown Klamath Falls\n\nExperience a thoughtfully updated unit in one of Klamath Falls’ historic downtown buildings. The George blends classic character with modern upgrades, offering a comfortable and convenient stay for travelers passing through or working remotely.\n\nPerfect for traveling professionals, couples, and guests looking for a clean, well-equipped place to stay in a central location.\n\nLocation Highlights\n• Located in the heart of downtown Klamath Falls\n• Walking distance to restaurants, shops, and the Amtrak station\n• Ideal for exploring the area or commuting locally\n\nThe Space\nThis historic building (nearly 100 years old) has been extensively updated, with renovated units designed for comfort and functionality.\n\nEach unit includes:\n• Air conditioning and heating\n• Fast, free WiFi (great for remote work)\n• 55” TVs in the living room and bedroom (for one-bedroom units)\n• Microwave and coffee maker (coffee provided)\n• Greystone bath amenities\n• Comfortable furnishings and modern finishes\n\nAdditional Amenities\n• On-site laundry (2nd floor, $2 per load – detergent provided)\n• Stocked with paper goods and essentials for a convenient stay\n• Easy self check-in\n\nThe Building\nThe George is a professionally managed property with a mix of long-term residents and short-term guests. It’s an active downtown setting, giving you a true local experience while staying in a well-maintained environment.\n\nNearby Favorites\nSome great spots just steps away:\n• Rodeo’s Pizza – right next door\n• A Leap of Taste – local lunch favorite\n• Thai Orchid Café – lunch or dinner\n• Green Blade Bakery – coffee & pastries\n• Basin Martini Bar – dinner & drinks\n• The Pikey – casual food & bar\n\nA grocery store (Holiday Market) is just a couple blocks away for anything you need during your stay.",
+    "amenities": {
+      "Kitchen & dining": [
+        "Kitchen",
+        "Toaster",
+        "Microwave",
+        "Coffee/tea maker",
+        "Refrigerator",
+        "Kitchen utensils",
+        "Coffee"
+      ],
+      "General": [
+        "Air conditioning",
+        "Washing Machine",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Elevator",
+        "Heating",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "Iron",
+        "TV",
+        "Linens",
+        "Hot water",
+        "Cooking basics",
+        "Clothing storage"
+      ],
+      "Safety": [
+        "Smoke detector"
+      ],
+      "Parking": [
+        "Free parking"
+      ],
+      "Bathroom": [
+        "Tub",
+        "Body soap",
+        "Conditioner"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309140-pRTox889GdXE7Y4ROXLAEdbwjJbRJq9hXT0Kgq7OnPM-66e97e9047d42",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309140-zk1ALrxYJyA24--cOzYWB4Q5aOvsXqrR2Hx3oAxAYXgA-66e92d3bdb6e7",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309140-t--QciGvjgZ4bnKTVmGxbj--NWN1XUhFlXvnM0E1R59BU-66e97e8e78443",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309140-UcE5Jvwf0ynIYySMvPfVo--M7HKYR6ncn4NLpO5bgFyo-66e92d3a52c14",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309140-Ef-XH-O8ccsz5v2YWGbFZYwW58cYG--ZZccjqG2bOpbE-66e97e8d1aaca",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309140-ricdzv4h2C24tGGEVxACNm2o6tPdXXgUar98mZPuJO0-66e92d37d1670",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309140-AcfP8Yy6RnUrnzxpA8kzwURIfwsJFz67PFHT00itIfg-66e97e8b43443",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309140-A6wVADPsNCSKgETG5-w-1C6vMOMvMtOXuXbKKB2h4F8-66e9bea11194e"
+    ]
+  },
+  {
+    "id": 309141,
+    "slug": "suite-212",
+    "unit": "212",
+    "floor": 2,
+    "title": "The George Suite",
+    "listingName": "The Suites at The George 212",
+    "tagline": "A refurbished retreat in the heart of downtown",
+    "type": "Apartment",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "priceFrom": 162,
+    "rating": 4.7,
+    "reviews": 15,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.228058,
+    "lng": -121.7785129,
+    "description": "Welcome to ‘The George’, a newly refurbished retreat nestled in the heart of vibrant downtown Klamath Falls. Our historic yet extensively modernized building offers a sophisticated blend of classic charm and contemporary convenience, perfect for both passing travelers and remote working professionals.\n\nOccupying an ideal location in downtown Klamath Falls, 'The George' offers easy access to local restaurants, shops, and the Amtrak station, all within walking distance. It's an excellent base for those looking to explore the local area or commute within the city.\n\nOur meticulously renovated units prioritize comfort, practicality, and style. Enjoy a suite of amenities including air-conditioning, lightning-fast Wi-Fi, large-screen TVs in the living area and bedroom, convenient kitchen appliances, and premium Greystone bath products. The units offer a harmonious blend of plush furnishings and sleek modern finishes to ensure a comfortable stay.\n\nIn addition to the in-unit amenities, we also provide on-site laundry facilities, easy self-check-in, and a stock of household essentials for your convenience. Our top-tier management ensures that both our long-term residents and short-term guests enjoy a seamless stay in a well-curated and maintained environment.\n\nImmerse yourself in the local life with a host of nearby favorites. Indulge in delicious pizza at Rodeo's, located just next door, enjoy a hearty lunch at 'A Leap of Taste', savor Thai delicacies at 'Thai Orchid Café', or kickstart your day with a hot coffee from 'Green Blade Bakery'. Wind down your day with dinner and drinks at 'Basin Martini Bar' or enjoy a relaxed evening at 'The Pikey' bar. Need groceries? The local 'Holiday Market' is just a couple of blocks away.\n\nChoose 'The George' for an unparalleled mix of comfort, convenience, and local immersion in Klamath Falls.",
+    "amenities": {
+      "Kitchen & dining": [
+        "Kitchen",
+        "Toaster",
+        "Microwave",
+        "Electric kettle",
+        "Coffee/tea maker",
+        "Stove",
+        "Refrigerator",
+        "Kitchen utensils",
+        "Coffee",
+        "Freezer"
+      ],
+      "General": [
+        "Air conditioning",
+        "Washing Machine",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Elevator",
+        "Hair Dryer",
+        "Heating",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "Iron",
+        "TV",
+        "Linens",
+        "Hot water",
+        "Cooking basics",
+        "Clothing storage"
+      ],
+      "Safety": [
+        "Smoke detector",
+        "Carbon Monoxide Detector"
+      ],
+      "Parking": [
+        "Free parking"
+      ],
+      "Bathroom": [
+        "Tub",
+        "Body soap",
+        "Conditioner"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309141-HqElrKvtf1ehT5B4s6hGR5WoH3lf7K4uC8ZsTok7NnE-66e92d3368ea2",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309141-3UAvzICS8uXUv7RxBaavEJtdOawulOzh8jHs6g7VSRI-66e92d321bf62",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309141-Fvqi6OVEw8li8QrMgpSb18sOcnW0rfu5nx1p9ldHXCM-66e92d30ea072",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309141-cdnbGI7yvpaOcnG9YwJ1MQhqllDOvJM0z6vozk6KA9E-66e9be9fc6105",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309141-0RbpJNxj7CkdB0T8--7A5v1mESIvLfJUidIooK0mXAss-66e92d2e798f7",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309141-BGW1d9nHtdzX1-vOTPId34yW9RNQn2JfknQWFSbUcEQ-66e92d2ab697c",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309141-yZwUYLWQcXNTT6AL5OwYKQE-63Tv96qtwaXCuPTg6Rc-66e97e8930bc4",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309141-0WlBVWoyEuo3QWUeW--0xnzHk2wRayr5r39754Y3vZ9w-66e97e87d258a",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309141-SaPh5W9HJFwLfn69YeIuCcAlLc6Erb6djSSHVvXF-sg-66e97e864d823",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309141-gDsVLy7tgbvoAhLHAbXEKi5BHhK6r4I7IvA4aiphFIQ-66e92d3557c97"
+    ]
+  },
+  {
+    "id": 440835,
+    "slug": "suite-216",
+    "unit": "216",
+    "floor": 2,
+    "title": "The Governor's Suite",
+    "listingName": "216 - The Governor’s 2 bedroom Suite at The George",
+    "tagline": "Two bedrooms, made for a longer stay",
+    "type": "Apartment",
+    "guests": 4,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "beds": 2,
+    "priceFrom": 238,
+    "rating": 4.0,
+    "reviews": 1,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.2275402,
+    "lng": -121.77956971,
+    "description": "Enjoy a stylish experience at this centrally-located place.\n\nThis unit is best for guest in Klamath Falls visiting for work, or for guests passing through who need a place to crash for the night. \n\nPerfect for guest working remotely and traveling professionals!\n\nPopular with nurses, students, construction workers, and more\n\nThe apartment is fully renovated and furnished beautifully. \n - The unit has air conditioning and heating\n - The unit is supplied with Greystone Soaps and Amenities\n - Coffee machine and Microwave provided; coffee provided\n - Laundry facilities are located on the 2nd floor for 2 Dollars each.  We supply laundry detergent\n - The apartment has disposable plate-ware and utensils so you don't need to worry about washing dishes\n - Ultra Soft Charmin toilet paper provided\n - Free WiFi\n - Free Parking\n\nNOTE:  \nYou are located in downtown Klamath Falls.  You may see the occasional wanderer in the area.\nThe building houses a mix of friendly tenants.\n\nThe entire space is yours.  This apartment has easy access to all the downtown area has to ffer.  Easy access to OIT\n\nHeart of Downtown - walk to shops, restaurants, and more\n\nWe strive for 5-star reviews.  Please read about the space prior to booking to ensure we keep you happy.  It is improtant to us that you enjoy your stay!",
+    "amenities": {
+      "Kitchen & dining": [
+        "Kitchen",
+        "Toaster",
+        "Microwave",
+        "Oven",
+        "Electric kettle",
+        "Stove",
+        "Refrigerator",
+        "Kitchen utensils",
+        "Dining table"
+      ],
+      "General": [
+        "Air conditioning",
+        "Washing Machine",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Hair Dryer",
+        "Heating",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "Iron",
+        "Laptop Friendly workspace",
+        "TV",
+        "Linens",
+        "Hot water",
+        "Cooking basics",
+        "Ceiling fan"
+      ],
+      "Safety": [
+        "Smoke detector"
+      ],
+      "Parking": [
+        "Free parking"
+      ],
+      "Policy": [
+        "Long term stays allowed"
+      ],
+      "Bathroom": [
+        "Cleaning products",
+        "Body soap",
+        "Conditioner"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-440835-x--ek--tR2cQxNFhxotq4m2-RH7VX3siUfqBXJYAtinHA-68e6fd0b0c3f4",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-440835-yOZneMLYum14QNAibefznZTXydh0GVi3OjuqbP2i2GM-68e6fd096ba21",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-440835-YU66-ZlmDE6CpvgRIbsBgSZ3sCzwUx--J2U0DnMBXjXw-68e6fd0833b7d",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-440835-Kh1JvpypstiWd0t2sMGNQ2afqr--KEl4bNDfhLEpFF20-68e6fd06d7e09",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-440835-7Br0d0Ryw-txwFN0uw-ahfkMavI6tq3pXeIMlKTjZUY-68e6fd057c487",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-440835-at1QRwRSiatUbuquj6e1YwWWdzRaBklILI3mtU84dCM-68e6fd04477a8",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-440835-pWSLGwqwzT-V8HPZeVuynHWcjmK4KxenIE2yGvRlCsQ-68e6fd02cf586",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-440835-EneOAHjZ7ek1DYJCFITOUOhHKWeiCN--h65Jyh7AWFQ0-68e6fd019e098",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-440835-QIWB2gmuaB-vNmQDhHXoT-Y3iaEBV9rVt5dbGI3QRn0-68e6fd00583cf"
+    ]
+  },
+  {
+    "id": 309514,
+    "slug": "suite-304",
+    "unit": "304",
+    "floor": 3,
+    "title": "Retro Haven",
+    "listingName": "304 Retro Haven in 1930’s Gem",
+    "tagline": "Vintage elegance in a 1930s gem",
+    "type": "Apartment",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "priceFrom": 158,
+    "rating": 4.8,
+    "reviews": 15,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.2279876,
+    "lng": -121.7787547,
+    "description": "Welcome to your perfect getaway in downtown Klamath Falls, Oregon! Nestled in the historic charm of The George, a meticulously renovated 1930s building, this apartment offers a blend of vintage elegance and modern comfort.\n\nStep into a beautifully refurbished space where every detail has been carefully curated. From the stylish furnishings to the tasteful décor, this apartment exudes sophistication and warmth.\n\nWake up to breathtaking views of the sunrise casting its golden hues over the majestic mountains and the tranquil park below. Whether you're savoring a morning cup of coffee or unwinding with a glass of wine in the evening, the scenery from your window is simply unparalleled.\n\nConvenience is at your fingertips with the Amtrak station just a leisurely stroll away, perfect for exploring the surrounding area or embarking on scenic train rides. And when it comes to dining and shopping, you're spoiled for choice with a myriad of options within walking distance.\n\nWhether you're here for a weekend getaway or an extended stay, this apartment at The George promises an unforgettable experience. Book your stay now and indulge in the charm of downtown Klamath Falls!",
+    "amenities": {
+      "Kitchen & dining": [
+        "Kitchen",
+        "Toaster",
+        "Microwave",
+        "Electric kettle",
+        "Coffee/tea maker",
+        "Stove",
+        "Refrigerator",
+        "Kitchen utensils",
+        "Coffee",
+        "Freezer"
+      ],
+      "General": [
+        "Washing Machine",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Elevator",
+        "Hair Dryer",
+        "Heating",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "Iron",
+        "TV",
+        "Linens",
+        "Hot water",
+        "Private entrance",
+        "Cooking basics",
+        "Room darkening shades",
+        "Laundromat",
+        "Clothing storage",
+        "Ceiling fan"
+      ],
+      "Parking": [
+        "Street parking",
+        "Free parking"
+      ],
+      "Policy": [
+        "Suitable for children",
+        "Suitable for infants",
+        "Long term stays allowed"
+      ],
+      "Safety": [
+        "Smoke detector"
+      ],
+      "Bathroom": [
+        "Body soap",
+        "Conditioner"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-q--G5OexBRyABXaVJdyAbC3IXOlAJ0vVxoo0PlJGiOC4-66ea08a1c3a0b",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-xC13jhYO9abkLpPBUKdlFkJwzeO3UYfy1jBtY7l57Mc-66ea08a016358",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-kUz53ScH4GnF0cWFInhksZ40wnQEE9-AmQifcHbunxM-66ea089e78b3b",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-RSqaomKstbNONi3S6yqaKtsSICM5aK58BEpRG9Q7WzU-66ea089d0853e",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-JrDbOXi--4nL4T2KlOTegdp9eZlGV-ErXQk30QvxAqAs-66ea089b2be1d",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-jnlACktvgdM6RF3-WD8f3gCknrJAZ6tOoUssI2RTHng-66e9f47f2ce7c",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-Fi8wrTK-sMoioKRne7lrglB2FJ4truV0g--8KtdMcBL4-66e9f47dcb977",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-EYSSE--9Zwtgl94JnAL5MWipgYGB1dEM76uwJQMxBR54-66e9f47c49112",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-wkF--Ju5hYzUyd--5L2ac9pEhm8O-t4hSaL-Cx1thI--A-66e9f47abd896",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-i8zTP36m0FShyJzaW2lyfbB2ZCtPFrDZha1vGKFvUoo-66ea089988585",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514--YRwmo9RIK2wiIyBCWFQvtwriwWiv5-8EeybUZgaXL8-66ea08980e9e1",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-QSXWHelcCPpBfslxbFmNCo--h99OyV4h0aJe32vDy7ws-66ea08969b593",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-3Hax7L--ecTel--3MSosP7kcnMXpanUJK0uRooMXN75eg-66e9f477c420d",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-drIbvbouwYTSZPVE0-EgVWsmgueBO32rLkGTOLG--kzk-66e9f4764015a",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-fVP94hySDJhKcadgYmYWy3xLnKygNyXlVHn--x6nYao0-66ea089547e7a",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309514-0BeUlQrNQkqkdNpajHMbg1FYwooNgD4Zouk0GS-9SWg-66e9f474816e8"
+    ]
+  },
+  {
+    "id": 309143,
+    "slug": "suite-307",
+    "unit": "307",
+    "floor": 3,
+    "title": "The Century Apartment",
+    "listingName": "Beautiful Apartment 307 in a 100 year old building",
+    "tagline": "Freshly upgraded, inside a 100-year-old landmark",
+    "type": "Apartment",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "priceFrom": 131,
+    "rating": 4.7,
+    "reviews": 9,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.22774022,
+    "lng": -121.77879185,
+    "description": "**This older building is continuously being updated.  In the meantime, we are offering the newly upgraded units for short-term rentals.**\n\nThese units are best for guests in Klamath Falls for work or couples passing through who need a crash pad.  We do not recommend these units for families, or those traveling with kids.\n\nPerfect for guests working remotely and traveling professionals!  \n\nPopular with nurses, construction workers, and more\n\nThis building is about 100 years old and is consistently being updated.  \nThis apartment has been renovated and furnished beautifully\n•\tAll units have air conditioning and heating\n•\tAll units are supplied with Greystone Soaps and amenities\n•\tEach unit has a microwave and coffee machine (Coffee Supplied)\n•\tLaundry facilities are located on the 2nd floor for $2.00 each.  We supply laundry detergent.\n•\tEach unit has glass and disposable plateware and utensils; if using disposable plateware, you do not need to worry about dishes!\n•\tEach unit has ultra-soft Charmin toilet paper\n•\tFree WiFi\n•\tEach one-bedroom unit has a TV in the main room, and another in the bedroom.  Each TV is at least 55”\n\nNOTE:  \nThis building houses a mix of friendly tenants.  You may see some tenants in front of the building smoking, or in the parking lot working on their cars.\n\nWithin walking distance from the Klamath Falls Amtrak Station!\n\nThe entire space is yours.  This unit has easy access to all the downtown area has to offer.  Easy access to OIT.\n\nWe will not be interacting with guests.  Everything including check-in is automated.\n\nWe strive for 5-star reviews.  Please read about the space prior to booking to ensure we keep you happy.  It is important to us that you enjoy your stay!  If you need anything while visiting, please let us know and we will take care of it!",
+    "amenities": {
+      "Kitchen & dining": [
+        "Kitchen",
+        "Toaster",
+        "Microwave",
+        "Coffee/tea maker",
+        "Stove",
+        "Refrigerator",
+        "Kitchen utensils",
+        "Coffee",
+        "Freezer"
+      ],
+      "General": [
+        "Air conditioning",
+        "Washing Machine",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Elevator",
+        "Hair Dryer",
+        "Heating",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "Iron",
+        "TV",
+        "Linens",
+        "Hot water",
+        "Cooking basics",
+        "Clothing storage",
+        "Ceiling fan"
+      ],
+      "Parking": [
+        "Street parking",
+        "Free parking"
+      ],
+      "Safety": [
+        "Smoke detector"
+      ],
+      "Bathroom": [
+        "Tub",
+        "Body soap",
+        "Conditioner"
+      ],
+      "Policy": [
+        "Long term stays allowed"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309143-9jhbMnZQGeh9lDnBE04-GGJ9YdYZQ3ACr--NqtUU6Sy0-66e92d2191719",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309143-SsGfPR4ohEwTBg6JH0BUBQxE1GphEXDU4z3LSO8G1hM-66e97e7a089f9",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309143-mEq7cVJr--TMOCLEHRnD3CjxUgdw--rdaQaCdxvPwFxHU-66e97e7889e27",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309143-Y26mlMGuB8fLapFSCz0OATGvd4CDd7BbFRKV66ogmYE-66e92d1f89da9",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309143-O5BjyLGYSdgh-pUVYL88zK-XSh9U-ird7lI2KgfHTdE-66e97e7707814",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309143-gfWeNhrVWFdTvDkwNki0JPoSV50s-yZlliPbA3bHP0g-66e97e74d7af2",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309143-oGj4GqPklVNxqehswi3h1nn8Rj9QpTsZ7--l2kgJ4dys-66e9be9b7ec3c",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309143-TujxlGEsPAf-ReWXYluTKoEJmXDTiWW7lz4RRy8mqMw-66e97e72a58b8",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309143-Hf9Yg2wXin--pmt9ZpyZ75galDsf-aj2vCpfUi1magxw-66e9e0e7ebfe7"
+    ]
+  },
+  {
+    "id": 585304,
+    "slug": "suite-309",
+    "unit": "309",
+    "floor": 3,
+    "title": "Modern Comfort",
+    "listingName": "Room 309 | Modern Comfort at The George",
+    "tagline": "Private bedroom, separate living room",
+    "type": "Apartment",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "priceFrom": 93,
+    "rating": 4.2,
+    "reviews": 0,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.2279675,
+    "lng": -121.7786152,
+    "description": "Welcome to Room 309 at The George—a stylish one-bedroom suite in the heart of downtown Klamath Falls. This comfortable space features a private bedroom, separate living room with a smart TV, kitchenette, and private bathroom.\n\nLocated inside The George, Room 309 offers a unique alternative to a traditional hotel stay. It’s a great home base for couples, solo travelers, business guests, and anyone looking for extra space and everyday conveniences.",
+    "amenities": {
+      "Kitchen & dining": [
+        "Kitchen",
+        "Toaster",
+        "Microwave",
+        "Electric kettle",
+        "Coffee/tea maker",
+        "Refrigerator",
+        "Coffee"
+      ],
+      "General": [
+        "Air conditioning",
+        "Washing Machine",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Elevator",
+        "Hair Dryer",
+        "Heating",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "Iron",
+        "TV",
+        "Linens",
+        "Hot water",
+        "Private entrance",
+        "Cooking basics"
+      ],
+      "Safety": [
+        "Smoke detector"
+      ],
+      "Parking": [
+        "Free parking"
+      ],
+      "Policy": [
+        "Long term stays allowed"
+      ],
+      "Bathroom": [
+        "Body soap",
+        "Conditioner",
+        "Shower gel"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-585304-JtxaQXmv8Io0o5pbxICb5cdJMOxXnjXc-Y--LV-PD--y4-6a8f8586a648e",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-585304-S-O2I-Z2520ClTseajrPtaYcnLOSxDGQIbagGGl4fHM-6a8f8585b2055",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-585304-LqnJsVQ2J8G1ilO4yO8EttVXPL1MbPGSls0HgMT8Wk4-6a8f8584bfa17",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-585304-IEMfdGTcbMj--niLWnsNxO36Z14JXBuJnByu01K0a--2Q-6a8f8583ef250",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-585304-MUku3YZDHUfDLFZKJHswmjFEY--9tD3He2wfuVVekDuY-6a8f8582d71dc",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-585304-zWItwVri7C3Q--4s7bnnSnZzvjC90rEC--okJnjJgmvWE-6a8f858219c31",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-585304---sHNVeBxlyZVfQZt--x8Bi12Rhno2x8BODhqiW6ojp0I-6a8f85813936c",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-585304-9fR-yf7Yha--O4iPMbK2iG-MR1spHwaC0Cd0mYMXx9jE-6a8f85807003c",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-585304-6yUFLKC-ITaBawrnFFBV2N---PiTpTeaUOu-jpQNX--dA-6a8fa1ac988b6",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-585304-UGxT3Yf5S0ULG0xPElibLn41kVknmOQ9FgxSBLWjvuc-6a8f857f5a083",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-585304-kp3bI8CwCUysQbUBCB5kNqhJilziUnjkcJjVWoLuPKs-6a8f857e8b99b",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-585304-hasOW-b69Vwyt--BZ4m0fUN6VUu3MtS9XZ-NsYmeSzFw-6a8f857daa870"
+    ]
+  },
+  {
+    "id": 594499,
+    "slug": "suite-310",
+    "unit": "310",
+    "floor": 3,
+    "title": "Historic Charm",
+    "listingName": "310 - Historic Charm at The George | New 1BR",
+    "tagline": "One of our newest one-bedroom suites",
+    "type": "Apartment",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "priceFrom": 94,
+    "rating": 4.5,
+    "reviews": 0,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.22808667,
+    "lng": -121.7787815,
+    "description": "Stay inside a piece of Klamath Falls history at The George, a nearly 100-year-old brick building in the heart of downtown. \n\nUnit 310 is one of our newest one-bedroom suites, thoughtfully updated to provide modern comfort while preserving the charm of this historic building. The suite includes a private bedroom, comfortable living area, and convenient kitchenette—ideal for a quick getaway, an extended stay, or a business trip.\n\nEnjoy easy access to downtown restaurants and shops",
+    "amenities": {
+      "General": [
+        "Free WiFi",
+        "Air conditioning",
+        "Washing Machine",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Elevator",
+        "24-hour checkin",
+        "Hair Dryer",
+        "Heating",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "Iron",
+        "TV",
+        "Iron board",
+        "Hot water",
+        "Cooking basics",
+        "Smart TV"
+      ],
+      "Kitchen & dining": [
+        "Kitchen",
+        "Toaster",
+        "Microwave",
+        "Electric kettle",
+        "Coffee/tea maker",
+        "Refrigerator",
+        "Kitchen utensils",
+        "Coffee",
+        "Freezer"
+      ],
+      "Safety": [
+        "Smoke detector"
+      ],
+      "Parking": [
+        "Free parking"
+      ],
+      "Bathroom": [
+        "Shower",
+        "Toilet",
+        "Body soap",
+        "Conditioner",
+        "Shower gel"
+      ],
+      "Location": [
+        "Downtown"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-594499-tMwHQc9uvaJDKZjy8T8-VE4XyHoKPOrUBclUqS8ivS0-6ab2ca2d98bb6",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-594499-fXppPndeCJOT1CvoQOYF9UWq9JgamlYx71fGaGBKAwc-6ab2ca2c4ef21",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-594499-S8eOLIlM--5caI7kAy--yj01b7nMu6LYzu6s2Oi2geCzo-6ab2ca2b6197f",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-594499--BMHhc0fznmWWEv7MNFWl9Hj47EBOrBmmWkRA5zJt1k-6ab2c3884b2d2",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-594499-3ZmLoUHNi2a--cOxkg7Ff-u9kJxDcHMuuDCVy5FniGeg-6ab2d066bcbeb",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-594499-JheRFcHwUEpD5dI7yr2kqZYwtCqReC4Ibx22utOfyfY-6ab46805070fa",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-594499-tknbRFLfwU6qjkbOKx-fgrCiSSsARFgrnk9-UkQ6Prw-6ab46806a8061",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-594499-xqKQ2XjZIZlQmccV8hdouxmsmEh-Z--fQWXWDUnENz0U-6ab2c38bead1e"
+    ]
+  },
+  {
+    "id": 583834,
+    "slug": "suite-311",
+    "unit": "311",
+    "floor": 3,
+    "title": "The Modern Retreat",
+    "listingName": "Modern & Comfortable Stay at The George | Unit 311",
+    "tagline": "Freshly updated and quietly comfortable",
+    "type": "Apartment",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "priceFrom": 93,
+    "rating": 5.0,
+    "reviews": 1,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.2279675,
+    "lng": -121.7786152,
+    "description": "Welcome to Unit 311 at The George, a freshly updated and comfortable retreat in the heart of Klamath Falls. This private unit is perfect for couples, solo travelers, business guests, or anyone looking for a clean, convenient place to call home while visiting the area.\n\nThe space features a comfortable bedroom with crisp linens, a private bathroom with a glass-enclosed shower, and a bright living area where you can relax after a day of exploring.",
+    "amenities": {
+      "Kitchen & dining": [
+        "Kitchen",
+        "Toaster",
+        "Electric kettle",
+        "Coffee/tea maker",
+        "Refrigerator"
+      ],
+      "General": [
+        "Air conditioning",
+        "Washing Machine",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Hair Dryer",
+        "Heating",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "Iron",
+        "TV",
+        "Hot water"
+      ],
+      "Safety": [
+        "Smoke detector"
+      ],
+      "Parking": [
+        "Free parking"
+      ],
+      "Bathroom": [
+        "Body soap",
+        "Conditioner",
+        "Shower gel"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-583834-H5IhDOZnvTizGPkwJpOJ3YU--rYnrZy7Ex6s9kDaGjng-6a8b74bf9ed12",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-583834-Gdfln-9EFBRpvPr4KoGUIpQyMe6W3xg1h5wJXKPe194-6a8b74bf18b65",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-583834-Im--TbSlqyvcvIKfCMQeJ-ORl4WUQveFVGV8q1E2K4Ls-6a8b74be8227d",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-583834-wyciVa2-jaAoU3hUFifMoo377tVHkwIKUxT6qw4YiA4-6a8b74bdee4cd",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-583834-79dVlsweooy2-f4wg90GdBv0mOmQA6Mvm0r-2ibvxew-6a8b74bd518c8",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-583834-hW4GOuAQykiE3bwjI7F6EJypZKiasy52f4fGsRCkxGw-6a8b74bcb238f",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-583834-51zXxXhVoWcDcxlKxrHEF-C-5FRIWelpOnfZnyOrFnQ-6a8b74bbcc6b9",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-583834-ho223XqKoQoVztUao-Vykx--UkeTXqCXuiLBQwHynLcY-6a8b74bb31073",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-583834-E--jhQDjWvCA-bl8udvrfKClLMVOgK20VetDLaMTvHPU-6a8b74ba84ba7",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-583834-yU6cCx2-rGyA0kuJiA-Gm0UWB7Z--lgzklWEFW5N6l7w-6a8b74b9e1050"
+    ]
+  },
+  {
+    "id": 326120,
+    "slug": "suite-312",
+    "unit": "312",
+    "floor": 3,
+    "title": "Retro Haven II",
+    "listingName": "Retro Downtown Apartment Unit 312",
+    "tagline": "1930s architecture, modern comfort",
+    "type": "Apartment",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "priceFrom": 133,
+    "rating": 4.5,
+    "reviews": 12,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.2279876,
+    "lng": -121.7787547,
+    "description": "Step Back in Time with Modern Comfort in Retro Haven - Unit 312\n\nWelcome to Unit 312 at The George Apartments, a unique space that combines the charm of 1930s architecture with retro-inspired decor, perfectly balanced with today’s comforts. This stylish apartment brings vintage flair into the heart of downtown Klamath Falls, ideal for those who appreciate history and design.",
+    "amenities": {
+      "General": [
+        "Free WiFi",
+        "Air conditioning",
+        "Washing Machine",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Elevator",
+        "24-hour checkin",
+        "Heating",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "TV",
+        "Linens",
+        "Towels",
+        "Hot water",
+        "Cooking basics",
+        "Room darkening shades",
+        "WiFi speed (100+ Mbps)",
+        "Smart TV",
+        "Ceiling fan"
+      ],
+      "Kitchen & dining": [
+        "Kitchen"
+      ],
+      "Safety": [
+        "Smoke detector"
+      ],
+      "Parking": [
+        "Free parking"
+      ],
+      "Bathroom": [
+        "Shower",
+        "Toilet",
+        "Body soap",
+        "Conditioner"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-326120-bF16PrZDScxVO--TXd7qO4djnMNSx--uqe26oHarABS7c-6ae7b0e77a9d8",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-326120-N9eZisbK--bWcW-W1IDP003-lt0tlSOgZ2RE3g6YPZO0-6ae7b0e88474c",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-326120-40RkGmPSvI6SM3l--iCTR2p1Fev7ecHk6noos07WEHfA-6ae7b0e98460d",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-326120-9ITwAT37BupYOPVJZIWPPTGqXPeA4JUKqMlvROwLL8w-6ae7b0ea8edfe",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-326120-Alcd0rvlCeaIbQ-0tKSx5IZr--SlHik7IqQErfIY-Qrk-6ae7b0eba89e6",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-326120-LmGetuXVSzg5eB1mZ4Wqi0rWWc4oTrOxManwZq5w7cE-6ae7b0ecdcb39"
+    ]
+  },
+  {
+    "id": 309147,
+    "slug": "suite-313",
+    "unit": "313",
+    "floor": 3,
+    "title": "The Modern Unit",
+    "listingName": "Modern Unit 313 at The George",
+    "tagline": "Clean lines on Main Street",
+    "type": "Apartment",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "priceFrom": 180,
+    "rating": 4.6,
+    "reviews": 7,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.2279876,
+    "lng": -121.7787547,
+    "description": "Welcome to The George on Main Street.  Unit 313 is the latest unit to be listed on Airbnb starting the 4th of July weekend.  Located in the heart of historic downtown Klamath Falls, this stylish and modern space offers an incredible vibe in an up-and-coming area. Situated right on Main Street, you'll be surrounded by the charm and character that make Klamath Falls a unique destination.",
+    "amenities": {
+      "Kitchen & dining": [
+        "Kitchen",
+        "Toaster",
+        "Microwave",
+        "Electric kettle",
+        "Coffee/tea maker",
+        "Stove",
+        "Refrigerator",
+        "Kitchen utensils",
+        "Coffee",
+        "Freezer"
+      ],
+      "General": [
+        "Air conditioning",
+        "Washing Machine",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Elevator",
+        "Heating",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "Iron",
+        "TV",
+        "Linens",
+        "Hot water",
+        "Cooking basics",
+        "Room darkening shades",
+        "Clothing storage",
+        "Ceiling fan"
+      ],
+      "Safety": [
+        "Smoke detector"
+      ],
+      "Parking": [
+        "Free parking"
+      ],
+      "Policy": [
+        "Long term stays allowed"
+      ],
+      "Bathroom": [
+        "Body soap",
+        "Conditioner"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309147-oPZK--TC4SgNNKivxd--4w3SNZHzLLQMgc70GtBq9zzrw-66e92d0d74dba",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309147-4Nc8PdL0Y-XNTkZ9h8UyjgeX-GtOjomqyHl4ugBM27A-66e97e5fa4569",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309147-aPnG2xpepKdozLOasI0Lh0wBBokj0wZmAXnZy8SDhFw-66e92d0a90ce8",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309147-Zd7m-NwbxoOjC2UzER6Dzd4rdWu1dD1XuYzlS52iaeE-66e97e5e3318a",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309147--529kcRZ5RsQBfTkO9Y-RUQPPkmYyX1uyyh-uVf9oWU-66e92d08ba5b1",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309147-52qXBI0fgW-BKtHKVkxHoM3--b--KM7s5znAfE0TUYAnw-66e97e5cb5610",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309147-IPIXEl6TcdgpN8Ek--Q2OBij89DxN8Yqre0-pRKGxRH8-66e97e5b4b9b3",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309147-D09rKbJVI9WUWySf0-w-BVTU6ztZmB--1CEqUCgvzOs-66e97e59a67b2",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309147-vVwcSi8xqkHrA5XlxpskAuSjacjyKqI4XPLl1FkBDfs-66e97e57a8988",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309147-59FXJxerwAD2EoBPmEEa9BJU4yFRRlRq2iUsfWu8GIo-66e97e56306f0",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309147-U07f4hKJuuh4YTM9lNl--NiCAMupz0xwmnbKJa27Z3gU-66e9be9a0f4e9",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309147-WY82hDSleHNEw1HbSdgnM5jcX3-FiNzXDvFGE-9dabI-66e97e544258e"
+    ]
+  },
+  {
+    "id": 309145,
+    "slug": "suite-316",
+    "unit": "316",
+    "floor": 3,
+    "title": "The Art Deco Escape",
+    "listingName": "The George 316 an Art Deco Escape",
+    "tagline": "Sunrise over the mountains and the park below",
+    "type": "Apartment",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "priceFrom": 131,
+    "rating": 4.7,
+    "reviews": 19,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.2279876,
+    "lng": -121.7787547,
+    "description": "Welcome to your perfect getaway in downtown Klamath Falls, Oregon! Nestled in the historic charm of The George, a meticulously renovated 1930s building, this apartment offers a blend of vintage elegance and modern comfort.\n\nThe whole group will enjoy easy access to everything from this centrally located place.\n\nStep into a beautifully refurbished space where every detail has been carefully curated. From the stylish furnishings to the tasteful décor, this apartment exudes sophistication and warmth.\n\nConvenience is at your fingertips with the Amtrak station just a leisurely stroll away, perfect for exploring the surrounding area or embarking on scenic train rides. And when it comes to dining and shopping, you're spoiled for choice with a myriad of options within walking distance.\n\nWhether you're here for a weekend getaway or an extended stay, this apartment at The George promises an unforgettable experience. Book your stay now and indulge in the charm of downtown Klamath Falls!\n\nGuests have access to the entire apartment\n\nIf you need anything during your stay, please message through the app and we will take care of it!",
+    "amenities": {
+      "Kitchen & dining": [
+        "Kitchen",
+        "Toaster",
+        "Microwave",
+        "Electric kettle",
+        "Coffee/tea maker",
+        "Stove",
+        "Refrigerator",
+        "Kitchen utensils",
+        "Coffee",
+        "Freezer"
+      ],
+      "General": [
+        "Air conditioning",
+        "Washing Machine",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Elevator",
+        "Hair Dryer",
+        "Heating",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "Iron",
+        "TV",
+        "Linens",
+        "Hot water",
+        "Cooking basics",
+        "Room darkening shades",
+        "Clothing storage",
+        "Ceiling fan"
+      ],
+      "Parking": [
+        "Street parking",
+        "Free parking"
+      ],
+      "Safety": [
+        "Smoke detector"
+      ],
+      "Bathroom": [
+        "Body soap",
+        "Conditioner"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309145-MCCCzLPFf1MgzSDNYoAkhtVafqYqhRC1MLWaG3Cfo--g-66e92d1c65509",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309145-5wLFzzNslubrMJi2XoCoXkEI8iswFQzpgdbwkBN1a5g-66e97e710073b",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309145-lNfDNqQwHLb4lo6Bu87--lnJTv-sHNDzdO-58qsaQGHA-66e92d1a05c0a",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309145---PbjrLIY2-pnb--NguNcSmCPU5LkGSETAPfymGDW9KhY-66e97e6f482aa",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309145-l8MswaY9XP0QAxkuwTgK1QKVPlYNnySre3pPaGJCSPc-66e97e6dce21e",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309145-t1qNDkAscRkZ9-4XAoZrOHdpDMMBbLqqfln4qNv6OdA-66e97e6c16a9f",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309145-Y6409VRZ----frBBwykDrQttLrrr6w5RtamtNGyPIkQLE-66e97e6aa0c7d",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309145-dANl15oiFq44OgNyv2JdI--jVgdnIDNspOjewiQ4lHw4-66e97e68ae688",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309145-JVYDhChWtqmsKaHge9NfilgnWpujnppkEp5pUqxVSSo-66e97e6725aad",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309145-vbxptY0VW6dXmOqVPCy062rn5NUINvnPncc0kYdYFWs-66e97e65cb9b3",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-309145-otNq5Gf1DOA9rZZDlyWNlVIuZiAG5pUx5Ot1QsEkpGQ-66e97e64209de"
+    ]
+  },
+  {
+    "id": 575595,
+    "slug": "suite-322",
+    "unit": "322",
+    "floor": 3,
+    "title": "Vintage Charm",
+    "listingName": "322 - Vintage Charm in Downtown",
+    "tagline": "Century-old character, today’s comforts",
+    "type": "Apartment",
+    "guests": 2,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "beds": 1,
+    "priceFrom": 81,
+    "rating": 4.8,
+    "reviews": 0,
+    "checkIn": 15,
+    "checkOut": 11,
+    "lat": 42.22817803,
+    "lng": -121.77902826,
+    "description": "Step back in time while enjoying today's comforts at The George. Built over 100 years ago, this beautifully restored historic building offers vintage charm, unique character, and modern amenities in the heart of downtown Klamath Falls. Whether you're here for work, adventure, or a weekend getaway, you'll enjoy a comfortable stay with easy access to local restaurants, shops, Crater Lake, and outdoor recreation. Every suite is thoughtfully updated while preserving the timeless character",
+    "amenities": {
+      "General": [
+        "Air conditioning",
+        "Washing Machine",
+        "Internet",
+        "Wireless",
+        "Dryer",
+        "Heating",
+        "Essentials",
+        "TV",
+        "Hot water"
+      ],
+      "Safety": [
+        "Smoke detector",
+        "Carbon Monoxide Detector"
+      ],
+      "Kitchen & dining": [
+        "Refrigerator"
+      ]
+    },
+    "images": [
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-575595-StUsBc5HkF-d-jbwUBxrviCpUYHT0antOUB0uP9S714-6a6a7f0e0efb1",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-575595-1UAIbSrLz1EX34elX6nZgID0f56OtdvsVXYXWktfzSo-6a6ac6297ae47",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-575595-Ck--0bEcjytWANgrQD--JR--Ry7R51mqm7vNuEXjXHVjBQ-6a6a7f0c99cfb",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-575595-h5tFRYRsoQykjSnpu6ks6wx5jEs0EHfbCf87IHHGvjE-6a6a7f0b979f1",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-575595-cEHZoi2haT0JEVEglPFFhE--z5AnVthk31OVVX0U--JIw-6a6b1a75950b1",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-575595-n-EU1HxdEQe3Pn0bT0CgO5LIWTiVdx--nSMat5eRvA10-6a6a8cfdb5514",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-575595-cvPLZD9LMHPjt331sX5AMyUNIFNj1lqRIdUIflC9Z2M-6a6aa28b0a7d9",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-575595-NfC---amhWYBSYmh2hIrVmnvZriuUFtiys-WUjd1yQDs-6a6a7f08cc9c1",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-575595-ZPanU6q4FJZxdKXE0PJ3CVl0OcCMhCspV7JbNH--JJvc-6a6b21d3cfa63",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-575595-u5lyheinw----xut8bJEGlDngUjyOgHU17blDjGV-xbX0-6a6a8cfc1ca60",
+      "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/124190-575595-XoJHE6KkRsegCvEaIMsIBGPO3leNlRraqaX--NC8EpTg-6a6a7f0620709"
+    ]
+  }
+]

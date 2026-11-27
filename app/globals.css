@@ -1,0 +1,160 @@
+@import "tailwindcss";
+
+/*
+ * Black & white editorial theme with a single brass accent — a nod to the
+ * building's 1930s Art Deco fittings. Ink/paper carry the layout; brass is
+ * reserved for small moments (eyebrows, stars, active states, hover lines).
+ */
+@theme inline {
+  --color-ink: #0b0b0b;
+  --color-ink-800: #1a1a1a;
+  --color-ink-700: #2a2a2a;
+  --color-ink-500: #5c5c5c; /* body copy on paper (AA) */
+  --color-ink-400: #8a8a8a;
+  --color-paper: #ffffff;
+  --color-bone: #f5f3ef; /* warm off-white section background */
+  --color-line: #e4e1db;
+
+  --color-brass-300: #d9bd8c; /* on ink (AA for small text) */
+  --color-brass-500: #b8925a; /* decorative / large text */
+  --color-brass-700: #85663a; /* small text on paper (AA) */
+
+  --font-sans: var(--font-manrope);
+  --font-display: var(--font-bodoni);
+}
+
+html {
+  scroll-padding-top: 6rem;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+}
+
+::selection {
+  background: var(--color-ink);
+  color: var(--color-brass-300);
+}
+
+/* In the base layer so a component can swap in its own focus style (e.g. underlined form fields). */
+@layer base {
+  a:focus-visible,
+  button:focus-visible,
+  input:focus-visible,
+  select:focus-visible,
+  textarea:focus-visible,
+  [tabindex]:focus-visible {
+    outline: 2px solid var(--color-brass-500);
+    outline-offset: 3px;
+  }
+}
+
+/* Uppercase, letter-spaced label used above headings. In the components layer
+   so utilities (text size, tracking) can override it. */
+@layer components {
+  .eyebrow {
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+  }
+}
+
+/* Underline that draws in from the left on hover. */
+.link-line {
+  background-image: linear-gradient(currentColor, currentColor);
+  background-size: 0% 1px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 0.5s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.link-line:hover,
+.link-line:focus-visible {
+  background-size: 100% 1px;
+}
+
+/* Film grain over dark hero imagery keeps flat blacks from banding. */
+.grain::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.07;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* Icon stroke trace — classes and pathLength="1" are added by DrawIcon after mount. */
+.draw-icon :is(path, circle, line, rect, polyline) {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  transition: stroke-dashoffset 1.6s cubic-bezier(0.22, 1, 0.36, 1) var(--draw-delay, 0s);
+}
+.draw-icon.is-drawn :is(path, circle, line, rect, polyline) {
+  stroke-dashoffset: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .draw-icon :is(path, circle, line, rect, polyline) {
+    stroke-dashoffset: 0;
+    transition: none;
+  }
+}
+
+/* Leaflet map styling — brand the controls, label and attribution. */
+.george-map {
+  font-family: var(--font-manrope), sans-serif;
+  background: var(--color-bone);
+}
+.george-map .leaflet-top .leaflet-control-zoom {
+  margin: 24px 24px 0 0;
+  border: none;
+  box-shadow: 0 10px 30px -12px rgba(0, 0, 0, 0.35);
+}
+.george-map .leaflet-control-zoom a {
+  width: 38px;
+  height: 38px;
+  line-height: 38px;
+  border: none;
+  border-radius: 0 !important;
+  background: var(--color-ink);
+  color: #fff;
+  font-weight: 300;
+}
+.george-map .leaflet-control-zoom a:hover {
+  background: var(--color-brass-700);
+  color: #fff;
+}
+.george-map .leaflet-control-zoom a + a {
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+}
+.george-map .leaflet-bottom .leaflet-control-attribution {
+  margin: 0 12px 70px 0;
+  background: rgba(255, 255, 255, 0.75);
+  font-size: 10px;
+}
+/* Gentle warm grade so the colour map sits with the black, white and brass palette. */
+.george-map-tiles {
+  filter: saturate(0.85) sepia(0.12) contrast(1.02);
+}
+.george-map-label.leaflet-tooltip {
+  padding: 6px 12px;
+  border: none;
+  border-radius: 0;
+  background: var(--color-ink);
+  color: #fff;
+  font-family: var(--font-bodoni), serif;
+  font-size: 15px;
+  box-shadow: 0 10px 24px -10px rgba(0, 0, 0, 0.5);
+}
+.george-map-label.leaflet-tooltip-top::before {
+  border-top-color: var(--color-ink);
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
